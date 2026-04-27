@@ -1,0 +1,6 @@
+@CacauShowApiSeuRa_HostAddress = http://localhost:5052
+
+GET {{CacauShowApiSeuRa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
